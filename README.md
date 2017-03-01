@@ -1,0 +1,1 @@
+This was one of the assignments for a class I took in fall 2016. The class was a mirror of Berkeley's CS188 (Intro to AI). This project was completed rather hurriedly so the code is a little messy, especially the ordering heuristics, however is still an interesting project. 
